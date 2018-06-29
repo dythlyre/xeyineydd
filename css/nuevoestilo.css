@@ -1,0 +1,51 @@
+body {
+    background: url("../imagenes/Si.jpg");
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'consolas';
+    color: white;
+    font-size: 50px;
+}
+
+.freetrial {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Lucida Console';
+    color: rgba(66, 235, 226, 0.986)
+}
+
+.first {
+    position: absolute;
+    left:425px;
+    width: 650px;
+    height: 565px;
+    background-color: black;
+}
+
+.sec {
+    padding: 30px;
+    margin: 30px;
+    background-color: teal;
+    position: relative;
+    top: 10px;
+    text-align: left;
+    color: white;
+    font-family: 'consolas';
+}
+
+.sec span {
+    color: rgb(251, 255, 0); 
+}
+
+img {
+    width: 8%;
+    margin: auto;
+
+}
+
+.img {
+    width: 100%;
+}
